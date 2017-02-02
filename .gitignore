@@ -41,3 +41,6 @@ Thumbs.db
 Desktop.ini
 # Disytel
 lang_cmp.php
+packages/
+.vs/SuiteCRMOutlookAddIn/v14/
+SugarCRMClient/obj/Debug/
